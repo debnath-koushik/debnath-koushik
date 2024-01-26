@@ -1,19 +1,26 @@
 # 💫About Me:
 <strong>🔭 I’m currently working on:</strong>
 <br>
-Building a website using React
+- Building a website using React
 
 <strong>👯 I’m looking to collaborate on:</strong>
 <br>
-Fullstack projects
+- Fullstack projects
 
 <strong>🌱 I’m currently learning:</strong>
 <br>
-React
+- React
 
 <strong>💬 Ask me about:</strong>
 <br>
-JavaScript, CSS, HTML, and any general web development questions.
+- JavaScript, CSS, HTML, and any general web development questions.
+
+<strong>⚡ Fun fact:</strong>
+<br>
+I love to learning new thing.
+
+# 🌐 Socials:
+linkedin.com/in/dev-koushik
 <!--
 **DevNinjaX/DevNinJaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
