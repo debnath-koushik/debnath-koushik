@@ -1,15 +1,19 @@
 # 💫About Me:
-<b>🔭 I’m currently working on:</b><br>
-Improving cloud-based solutions and implementing microservices architecture.
+<strong>🔭 I’m currently working on:</strong>
+<br>
+<p>Building a website using React</p>
 
-###### 👯 I’m looking to collaborate on:<br>
-Fullstack projects
+<strong>👯 I’m looking to collaborate on:</strong>
+<br>
+<p>Fullstack projects</p>
 
-###### 🌱 I’m currently learning:<br>
+<strong>🌱 I’m currently learning:</strong>
+<br>
 React
 
-###### 💬 Ask me about:<br>
-JavaScript, CSS, HTML, and any general web development questions.
+<strong>💬 Ask me about:</strong>
+<br>
+<p>JavaScript, CSS, HTML, and any general web development questions.</p>
 <!--
 **DevNinjaX/DevNinJaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
