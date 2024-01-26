@@ -1,23 +1,5 @@
-# 💫About Me:
-<strong>🔭 I’m currently working on:</strong>
-<br>
-- Building a website using React
-
-<strong>👯 I’m looking to collaborate on:</strong>
-<br>
-- Fullstack projects
-
-<strong>🌱 I’m currently learning:</strong>
-<br>
-- React
-
-<strong>💬 Ask me about:</strong>
-<br>
-- JavaScript, CSS, HTML, and any general web development questions.
-
-<strong>⚡ Fun fact:</strong>
-<br>
-I love to learning new thing.
+# 💫 About Me:
+🔭 **I’m currently working on:**  <br>- Building a website using React.<br><br>👯 **I’m looking to collaborate on:**  <br>- Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>- React.<br><br>💬 **Ask me about:**  <br>- JavaScript, CSS, HTML, and any general web development questions..<br><br>⚡ **Fun fact:**  <br>- I love to learning new thing.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__koushik_debnath) 
