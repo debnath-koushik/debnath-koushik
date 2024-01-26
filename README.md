@@ -1,5 +1,5 @@
 # 💫About Me:
-###### 🔭 I’m currently working on:<br>
+<b>🔭 I’m currently working on:</b><br>
 Improving cloud-based solutions and implementing microservices architecture.
 
 ###### 👯 I’m looking to collaborate on:<br>
