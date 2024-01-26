@@ -1,14 +1,14 @@
 # 💫About Me:
--🔭 I’m currently working on:
+🔭 I’m currently working on:<br>
 Improving cloud-based solutions and implementing microservices architecture.
 
-👯 I’m looking to collaborate on:
+👯 I’m looking to collaborate on:<br>
 Fullstack projects
 
-🌱 I’m currently learning:
+🌱 I’m currently learning:<br>
 React
 
-💬 Ask me about:
+💬 Ask me about:<br>
 JavaScript, CSS, HTML, and any general web development questions.
 <!--
 **DevNinjaX/DevNinJaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
