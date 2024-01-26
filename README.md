@@ -1,11 +1,11 @@
 # 💫About Me:
 <strong>🔭 I’m currently working on:</strong>
 <br>
-<p>Building a website using React</p>
+Building a website using React
 
 <strong>👯 I’m looking to collaborate on:</strong>
 <br>
-<p>Fullstack projects</p>
+Fullstack projects
 
 <strong>🌱 I’m currently learning:</strong>
 <br>
@@ -13,7 +13,7 @@ React
 
 <strong>💬 Ask me about:</strong>
 <br>
-<p>JavaScript, CSS, HTML, and any general web development questions.</p>
+JavaScript, CSS, HTML, and any general web development questions.
 <!--
 **DevNinjaX/DevNinJaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
