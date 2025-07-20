@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on:<br>- Php Developer Inter in eWards<br><br>👯 I’m looking to collaborate on:<br>- Fullstack projects.<br><br>🌱 I’m currently learning:<br>- Laravel, Ajax, JQuery.<br><br>💬 Ask me about:<br>- Java, JavaScript, CSS, HTML, Laravel and any general web development questions.<br><br>⚡ Fun fact:<br>- I love to learning new thing.
+🔭 I’m currently working on:<br>- Currently focused on Python development while expanding my skills in machine learning.<br><br>👯 I’m looking to collaborate on:<br>- Fullstack projects.<br><br>🌱 I’m currently learning:<br>- ReactJs, Flask, Django, ML<br><br>💬 Ask me about:<br>- Java, Python, Machine Learning, and web development questions.<br><br>⚡ Fun fact:<br>- I love to learning new thing.
 
 
 ## 🌐 Socials:
